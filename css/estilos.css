@@ -1,0 +1,21 @@
+.gradient {
+	background: linear-gradient(
+		132deg,
+		rgb(0, 48, 143) 0%,
+		rgb(0, 255, 255) 100%
+	);
+	background: linear-gradient(
+		132deg,
+		rgb(2, 106, 122) 0%,
+		rgb(242, 78, 163) 100%
+	);
+	background: linear-gradient(
+		132deg,
+		rgb(59, 55, 106) 0%,
+		rgb(0, 143, 186) 53.17%,
+		rgb(255, 149, 213) 100%
+	);
+}
+p {
+	text-align: justify;
+}
